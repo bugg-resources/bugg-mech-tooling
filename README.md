@@ -1,6 +1,6 @@
-# bugg-mech-tooling
-
 ![cc-by-nc-sa-shield](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
+
+# bugg-mech-tooling
 
 This repository contains 3D models for tools designed to aid in the assembly of the Bugg recording device (aka _jigs_).
 
